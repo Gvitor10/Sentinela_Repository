@@ -16,7 +16,7 @@ Este repositório foi criado para a tarefa de colaboração em Git da Squad Thun
 3.  **Escreva sua parte da história:** Abra o arquivo `historia.txt` (crie-o se não existir na raiz do repositório) e adicione sua contribuição ao final.
 4.  **Salve, adicione e commite suas alterações:**
     ```bash
-    git add historia.txt
+    git add Historia.txt
     git commit -m "Add: Adiciona a parte da história de [Seu Nome]"
     ```
 5.  **Envie sua branch para o repositório remoto:**
