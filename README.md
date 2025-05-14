@@ -1,4 +1,4 @@
-# Sentinela_Repository
+# Thunderbolts_Repository
 
 Este repositório foi criado para a tarefa de colaboração em Git da Squad Thunderbolts. Nosso objetivo é escrever uma história em conjunto, praticando o versionamento em diferentes branches e realizando merges.
 
@@ -6,7 +6,7 @@ Este repositório foi criado para a tarefa de colaboração em Git da Squad Thun
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/Gvitor10/Sentinela_Repository
+    git clone https://github.com/Gvitor10/Thunderbolts_Repository
     ```
 2.  **Crie sua branch individual:** A partir da branch `main`, crie uma branch com um nome descritivo (ex: `feature/sua-parte`, `story/seu-nome`).
     ```bash
